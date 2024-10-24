@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Marianna](https://up.htmlacademy.ru/javascript/33/user/2089669).
-* Наставник: `Кексобот`.
+* Наставник: [Кексобот](https://htmlacademy.ru).
 
 ---
 
